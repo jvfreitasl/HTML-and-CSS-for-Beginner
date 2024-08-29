@@ -1,0 +1,37 @@
+body {
+  font-family: Arial;
+  margin: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#bloco1,
+#bloco2 {
+  background-color: #111;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+h2 {
+  color: white;
+  margin: 0px;
+}
+
+span {
+  color: #febe01;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+a {
+  background-color: #febe01;
+  color: #332200;
+  border-radius: 4px;
+  padding: 10px;
+  text-decoration: none;
+}

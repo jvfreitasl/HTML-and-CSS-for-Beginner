@@ -1,0 +1,31 @@
+html {
+  background-color: rgba(103, 103, 92, 0.214);
+  font-family: Arial;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+}
+
+h1 {
+  color: rebeccapurple;
+  font-size: 48px;
+}
+
+h2 a {
+  color: seagreen;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
